@@ -9,13 +9,13 @@ plugins {
 }
 
 android {
-    namespace = "app.skeleton.product"
+    namespace = "shop.manukindapp.com"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "app.skeleton.product"
+        applicationId = "shop.manukindapp.com"
         minSdk = 29
         targetSdk = 36
         versionCode = 1
